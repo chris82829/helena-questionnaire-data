@@ -1,0 +1,16 @@
+Question ID: study_effort
+Source column: v14_zusatz_suchaufwand
+
+English wording in the supplied manuscript (or context-question translation):
+Using the system was effortful for me.
+
+Recovered server German wording — administered version not yet confirmed:
+Die Nutzung von DIANA war für mich aufwendig.
+
+English translation of the recovered German wording:
+Using DIANA was effortful for me.
+
+Recorded source framework: DIANA
+Recorded source-item mapping: DIANA-Zusatzitem Aufwand
+Recorded adaptation: Studienbezogene Eigenentwicklung; keine Framework-Skala.
+Reference: 
